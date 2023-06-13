@@ -23,3 +23,14 @@
 ## UML
 
 ![UML](img/UML_401_Final.jpg)
+
+## Deployed Site
+
+- In progress.
+
+## To start app:
+
+- Git clone repository: https://github.com/Ryanb021/whistler.git
+- cd whistler
+- open 2 terminal windows and cd server, cd client (make sure you're inside whistler directory on both terminal windows)
+- npm start on both server and client
