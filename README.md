@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# Whistler
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+### Introducing Whistler: Unleash Your Voice, Connect, and Share!
 
-In the project directory, you can run:
+- Whistler is a dynamic and vibrant social media app that takes inspiration from the essence of Twitter while adding its own unique twist. Designed to empower users and create meaningful connections, Whistler provides a platform for individuals to express themselves, engage in conversations, and share their thoughts with the world.
 
-### `npm start`
+- At the core of Whistler is the idea of unleashing your voice. Whether you're an aspiring influencer, an avid opinion-sharer, or simply someone who loves to stay informed, Whistler offers a space where your ideas can take flight. With a character limit that encourages concise and impactful messages, Whistler allows you to express your thoughts, ideas, and emotions in a succinct and powerful manner.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Whistler fosters a sense of community by enabling users to connect with like-minded individuals from across the globe. Through hashtags, trending topics, and personalized recommendations, you can easily discover and engage with conversations that resonate with your interests. Follow your favorite influencers, engage in lively discussions, and build connections with people who share your passions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- One of the standout features of Whistler is its emphasis on real-time updates. Stay informed about the latest happenings, trends, and events as they unfold, and join in the conversation with fellow users. Whistler serves as your personal news hub, allowing you to engage with timely topics and be part of the broader cultural discourse.
 
-### `npm test`
+- With a sleek and intuitive interface, Whistler offers a seamless user experience on your web browser. Whistler's responsive design ensures you can access the app and engage with the community wherever and whenever inspiration strikes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Join Whistler today and let your voice be heard. Connect with passionate individuals, engage in meaningful conversations, and stay up-to-date with the pulse of the world. Whistler: the social media app where ideas take flight and connections are made.
 
-### `npm run build`
+## User Stories
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- As a user of Whistler, I want to be able to share my thoughts, ideas, and experiences with a global community in a concise and impactful manner. I want to connect with like-minded individuals who share my interests and engage in lively discussions on trending topics. I want to stay informed about the latest news and events as they unfold, and have the ability to join conversations in real-time. Additionally, I expect Whistler to offer a seamless user experience on my web browser, allowing me to access and engage with the community anytime, anywhere.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## UML
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![UML](img/UML_401_Final.jpg)
