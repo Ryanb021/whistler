@@ -33,4 +33,5 @@
 - Git clone repository: https://github.com/Ryanb021/whistler.git
 - cd whistler
 - open 2 terminal windows and cd server, cd client (make sure you're inside whistler directory on both terminal windows)
+- set up your .env on server side. MongodDB and JWT. See .env.sample file.
 - npm start on both server and client
