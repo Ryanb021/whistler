@@ -2,7 +2,7 @@
 
 ## Description
 
-### Introducing Whistler: Unleash Your Voice, Connect, and Share!
+### Introducing Whistler: Unleash Your Voice, Connect, and Share
 
 - Whistler is a dynamic and vibrant social media app that takes inspiration from the essence of Twitter while adding its own unique twist. Designed to empower users and create meaningful connections, Whistler provides a platform for individuals to express themselves, engage in conversations, and share their thoughts with the world.
 
@@ -28,9 +28,9 @@
 
 - In progress.
 
-## To start app:
+## To start app
 
-- Git clone repository: https://github.com/Ryanb021/whistler.git
+- clone this repository
 - cd whistler
 - open 2 terminal windows and cd server, cd client (make sure you're inside whistler directory on both terminal windows)
 - set up your .env on server side. MongodDB and JWT. See .env.sample file.
