@@ -35,3 +35,15 @@
 - open 2 terminal windows and cd server, cd client (make sure you're inside whistler directory on both terminal windows)
 - set up your .env on server side. MongodDB and JWT. See .env.sample file.
 - npm start on both server and client
+
+## Images
+<img width="631" alt="Main Page" src="https://github.com/Ryanb021/whistler/assets/120413183/b08bd7ab-b4db-4a90-b0db-6f829a01ab38">
+
+<img width="555" alt="main page 2" src="https://github.com/Ryanb021/whistler/assets/120413183/22d519bf-699f-48c2-8b3c-acd788f22a54">
+
+<img width="569" alt="Profile Page" src="https://github.com/Ryanb021/whistler/assets/120413183/178f27b8-cc45-44b3-b147-450f04a18495">
+
+<img width="580" alt="Dark Mode" src="https://github.com/Ryanb021/whistler/assets/120413183/cd8c21d0-f4a6-498a-b686-b4122dcead37">
+
+
+
